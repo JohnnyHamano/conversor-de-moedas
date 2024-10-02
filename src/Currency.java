@@ -1,0 +1,1 @@
+public record Currency(String result, String base_code, Object conversion_rates) { }
